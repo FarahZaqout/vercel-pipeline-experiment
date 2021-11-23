@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: amondnet/vercel-action@v20
         with:
-          alias-domains: "https://www.farahzaqout.dev/"
+          alias-domains: "farahzaqout.dev"
           vercel-token: ${{ secrets.VERCEL_TOKEN }}
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
