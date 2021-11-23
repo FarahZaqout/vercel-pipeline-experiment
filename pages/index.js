@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1>Hello World We are only on Preview</h1>
+        <h1>This is the random branch</h1>
       </main>
 
       <footer className={styles.footer}>
