@@ -14,6 +14,7 @@ jobs:
         with:
           node-version: '14'
           registry-url: https://registry.npmjs.org/
+          vercel-domains: "https://www.farahzaqout.dev/"
 
       - name: "Deploy to Vercel"
         run:
