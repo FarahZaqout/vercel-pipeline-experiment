@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1>Hello World We are only on Preview bitches</h1>
+        <h1>Hello World We are only on Preview</h1>
       </main>
 
       <footer className={styles.footer}>
