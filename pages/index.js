@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1>This is Production Branch</h1>
+        <h1>This is the kurwa branch</h1>
       </main>
 
       <footer className={styles.footer}>
